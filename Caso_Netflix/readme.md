@@ -61,7 +61,7 @@ En esta etapa se transformó el modelo conceptual a un modelo relacional, defini
 
 > 📌 En esta sección se incluirá el script SQL completo con la creación de tablas, constraints, inserciones de datos y relaciones. *(Próximamente)*
 
-Puedes ver el script SQL completo de creación de tablas y relaciones en el archivo [`schema.sql`](https://github.com/DiegoRoyGulytMamaniChura/Notes-DB/blob/main/scripts/schema.sql), ubicado en la carpeta `scripts/` del repositorio.
+Puedes ver el script SQL completo de creación de tablas y relaciones en el archivo [`schema.sql`](https://github.com/DrMachDev/SQL/blob/main/Caso_Netflix/schema.sql), ubicado en la carpeta `scripts/` del repositorio.
 
 
 ---
