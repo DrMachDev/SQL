@@ -11,7 +11,7 @@ El primer paso fue identificar los requisitos funcionales y no funcionales del s
 <details>
 <summary>📷 Ver imagen del caso Netflix (haz clic para desplegar)</summary>
 
-![Requisitos - Task Netflix](https://raw.githubusercontent.com/DiegoRoyGulytMamaniChura/Notes-DB/main/task_netflix.PNG)
+![Requisitos - Task Netflix](https://raw.githubusercontent.com/DrMachDev/SQL/main/Caso_Netflix/task_netflix.PNG)
 
 *Figura 1: Caso Netflix*
 
@@ -34,7 +34,7 @@ En esta fase se representaron las entidades, atributos y relaciones mediante un 
 <details>
 <summary>📷 Ver imagen del diseño conceptual (haz clic para desplegar)</summary>
     
-![Diseño Conceptual](https://raw.githubusercontent.com/DiegoRoyGulytMamaniChura/Notes-DB/main/conceptual_design.PNG)
+![Diseño Conceptual](https://github.com/DrMachDev/SQL/blob/main/Caso_Netflix/conceptual_design.PNG)
     
 *Figura 2: Modelo Entidad-Relación del caso Netflix (draw.io)*
 
@@ -49,7 +49,7 @@ En esta etapa se transformó el modelo conceptual a un modelo relacional, defini
 <details>
 <summary>📷 Ver imagen del diseño lógico (haz clic para desplegar)</summary>  
     
-![Diseño Lógico](https://raw.githubusercontent.com/DiegoRoyGulytMamaniChura/Notes-DB/main/logical_design.PNG)
+![Diseño Lógico](https://github.com/DrMachDev/SQL/blob/main/Caso_Netflix/logical_design.PNG)
 
 *Figura 3: Modelo Entidad-Relación del caso Netflix (MySQL Workbench)*
 
