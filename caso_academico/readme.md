@@ -11,7 +11,7 @@ El primer paso fue identificar los requisitos funcionales y no funcionales del s
 <details>
 <summary>📷 Ver imagen del caso Netflix (haz clic para desplegar)</summary>
 
-![Requisitos - Task Netflix](https://raw.githubusercontent.com/DrMachDev/SQL/main/Caso_Netflix/task_netflix.PNG)
+![Requisitos - Task Netflix](https://raw.githubusercontent.com/DrMachDev/SQL/main/caso_academico/Caso_Academico.PNG)
 
 *Figura 1: Caso Academico*
 
