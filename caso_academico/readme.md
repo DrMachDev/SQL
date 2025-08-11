@@ -61,9 +61,9 @@ En esta etapa se transformó el modelo conceptual a un modelo relacional, defini
 
 > 📌 En esta sección se incluirá el script SQL completo con la creación de tablas, constraints, inserciones de datos y relaciones. *(Próximamente)*
 
-Puedes ver el script SQL completo de creación de tablas y relaciones en el archivo [`schema.sql`](https://github.com/DrMachDev/SQL/blob/main/caso_academico/caso_academico.sql), ubicado en la carpeta `scripts/` del repositorio.
+*Puedes ver el script SQL completo de creación de tablas y relaciones en el archivo [`schema.sql`](https://github.com/DrMachDev/SQL/blob/main/caso_academico/caso_academico.sql), ubicado en la carpeta `scripts/` del repositorio.
+*Tenemos viewa, funciones y triggers en el archivo [`schema.sql`](https://github.com/DrMachDev/SQL/blob/main/caso_academico/caso_academico_vistas_funciones_trigger.sql), ubicado en la carpeta `scripts/` del repositorio.
 
-Tenemos viewa, funciones y triggers en el archivo [`schema.sql`](https://github.com/DrMachDev/SQL/blob/main/caso_academico/caso_academico_vistas_funciones_trigger.sql), ubicado en la carpeta `scripts/` del repositorio.
 ---
 
 ## 📚 Contenido Relacionado
