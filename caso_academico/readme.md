@@ -34,7 +34,7 @@ En esta fase se representaron las entidades, atributos y relaciones mediante un 
 <details>
 <summary>📷 Ver imagen del diseño conceptual (haz clic para desplegar)</summary>
     
-![Diseño Conceptual](https://github.com/DrMachDev/SQL/blob/main/Caso_Netflix/conceptual_design.PNG)
+![Diseño Conceptual](https://github.com/DrMachDev/SQL/blob/main/caso_academico/dc_academico.PNG)
     
 *Figura 2: Modelo Entidad-Relación del caso Academico (draw.io)*
 
@@ -49,7 +49,7 @@ En esta etapa se transformó el modelo conceptual a un modelo relacional, defini
 <details>
 <summary>📷 Ver imagen del diseño lógico (haz clic para desplegar)</summary>  
     
-![Diseño Lógico](https://github.com/DrMachDev/SQL/blob/main/Caso_Netflix/logical_design.PNG)
+![Diseño Lógico](https://github.com/DrMachDev/SQL/blob/main/caso_academico/dl_academico.PNG)
 
 *Figura 3: Modelo Entidad-Relación del caso Academico (MySQL Workbench)*
 
